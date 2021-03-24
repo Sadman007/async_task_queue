@@ -1,7 +1,7 @@
 # async_task_queue
 Async Task Queue for task handling using Springboot + Redis
 
-# steps
+## Steps
 1. Clone this repo.
 2. Update project using pom.xml.
 3. Run the project.
