@@ -1,1 +1,6 @@
 /target/
+.git
+.settings
+.gitignore
+.project
+
